@@ -15,5 +15,5 @@
   <li>Le site est disponsible a l'adresse 127.0.0.1/8080/CouchSurfing</li>
 </ul>
 
-En cas de problèmes vous pouvez contacter notre technicien installation<br/>
+En cas de problèmes vous pouvez contacter notre technicien installation.<br/>
 Maxime JANVIER par mail (janvier.maxime.mj@gmail.com)
